@@ -10,6 +10,10 @@ on:
 
 permissions:
   contents: write
+  
+concurrency:
+  group: market-feed
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -99,4 +103,4 @@ jobs:
           git config user.email "market-feed-bot@users.noreply.github.com"
           git add market.json
           git diff --cached --quiet || git commit -m "Update market prices"
-          git push
+          git pull --rebase -X theirs origin main && git push
