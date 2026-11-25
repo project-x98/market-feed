@@ -1,0 +1,28 @@
+{
+ "note": "PAVOS invite codes. To turn a tester off, change true to false on their line.",
+ "salt": "0de25a760d4b31628e3d8a86335289c0",
+ "iter": 100000,
+ "codes": [
+  {"id": "T00", "on": true, "h": "fa3420b9288830c33ff585cebdf9ac282be41ba4222aaa8e5f3e537f362e037d"},
+  {"id": "T01", "on": true, "h": "86e2265e4f5ff66e4b69a079b59fbf3f464c080c0d69f4de20548ea41dcbc20f"},
+  {"id": "T02", "on": true, "h": "c628361cc1f4ee987e919605865858438ce5df6aa20e5f3e15cc0099c45a162b"},
+  {"id": "T03", "on": true, "h": "f4133c28fbf6d01ded19a585c235ef20d39db5f65a55f574604327f9e50cb02e"},
+  {"id": "T04", "on": true, "h": "05aa343aab07080ef22f17e3e4d1d62c234d2c7af1655be694d0ed1d7ab32d3d"},
+  {"id": "T05", "on": true, "h": "759d0590c2316a74c4985b25e9f45559f25362d64d5501d494c1ef5c4df55604"},
+  {"id": "T06", "on": true, "h": "87d00fd379cf718dba3f58dfa3245c014cfe33d839883735e3ba7cbaa60216c6"},
+  {"id": "T07", "on": true, "h": "5fa57842756780eef85edc52bfa15236139815256a3df9155c74382a01f7f878"},
+  {"id": "T08", "on": true, "h": "ce78db9ee0daa62a642b9d6c1d7b42d5ad065e83f68cacf72563f505b7cc9c11"},
+  {"id": "T09", "on": true, "h": "05be341587cc042005c182d247af43c64a26958bf34860dfaaf4069f07d2b94e"},
+  {"id": "T10", "on": true, "h": "c0f979f6861301f66803ed247b3d2926755903ee2cbf76b3f85067201d4d722f"},
+  {"id": "T11", "on": true, "h": "8ef6e5812a1ee1bb8d64b3599f2da943fb18f531c5fe5bedc422d8c9aca1696c"},
+  {"id": "T12", "on": true, "h": "63aec7268fbdc4db17f405a02f2b511edc616fca74679a55e640c368f0b123cd"},
+  {"id": "T13", "on": true, "h": "aec05fd599b967f19253a9cfe13f6ddd9e71d5bbe9e684c65ae4d3c2b2c86d8b"},
+  {"id": "T14", "on": true, "h": "86c34741032fe528efef69c58832e7a7f1bcd79d01db135fbc1fc4f3e82793c1"},
+  {"id": "T15", "on": true, "h": "3d9a587ad61027f40e0122321e02216a129ee8a6bc670947b8073ae54ba46cb3"},
+  {"id": "T16", "on": true, "h": "915831ee4bd70534206f1fb3978996e07739e97a04225c73241c3aec929b91db"},
+  {"id": "T17", "on": true, "h": "55eff5e9135fe678a69627b854a6cd137b92a39be26a32e085337a3b1ff8f6dc"},
+  {"id": "T18", "on": true, "h": "feff5e7f535e8cd25d786329b797f44bf74cd59ace804a1adfe1cc34408563d6"},
+  {"id": "T19", "on": true, "h": "c18597a962d392ff853ee25ca106198ab6a42202377850ede874f05f75cde04c"},
+  {"id": "T20", "on": true, "h": "c8f20a7955fc7e78c9c13ae8d9ccb2563dadc553107f20ac4115a37429282bbf"}
+ ]
+}
